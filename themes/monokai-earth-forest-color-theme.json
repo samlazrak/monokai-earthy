@@ -44,14 +44,15 @@
     "titleBar.activeBackground": "#1f1f1f",
 
     "activityBar.background": "#1f1f1f",
-    "activityBar.foreground": "#C0C0C0FF",
+    "activityBar.foreground": "#916255",
     "activityBarBadge.background": "#667c55",
     "activityBar.border": "#1c1d1c",
 
     "sideBar.background": "#1f1f1f",
     "sideBar.foreground": "#C0C0C0FF",
-    "sideBarTitle.foreground": "#667c55",
+    "sideBarTitle.foreground": "#916255",
     "sideBarSectionHeader.background": "#1f1f1f",
+    "sideBarSectionHeader.foreground": "#667c55",
 
     "editorGroupHeader.tabsBackground": "#1c1d1c",
     "tab.activeBackground": "#1f1f1f",
@@ -60,10 +61,11 @@
     "tab.activeBorder": "#667c55",
     "tab.hoverBackground": "#473e38",
 
-    "statusBar.background": "#4c5c3f",
+    "statusBar.background": "#332425",
     "statusBar.noFolderBackground": "#4c5c3f",
-    "statusBar.debuggingBackground": "#ebc17a",
-    "statusBar.debuggingForeground": "#1f1f1f",
+    "statusBar.foreground": "#C0C0C0FF",
+    "statusBar.debuggingBackground": "#332425",
+    "statusBar.debuggingForeground": "#C0C0C0FF",
 
     "editorLineNumber.foreground": "#41463d",
 
