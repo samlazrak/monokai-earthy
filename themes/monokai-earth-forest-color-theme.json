@@ -17,6 +17,27 @@
     "green-very-light": "#afcaaf",
     "grey-comment": "#4e5350"
   },
+  "lib-2": {
+    "background": "#141314",
+    "foreground": "#ccc2a6",
+    "color0": "#322a2c",
+    "color8": "#46423b",
+    "color1": "#70473a",
+    "color9": "#916255",
+    "color2": "#534d35",
+    "color1.1": "#858167",
+    "color3": "#9c7650",
+    "*color3.1": "#9c7650",
+    "color11": "#ad8650",
+    "color4": "#473e38",
+    "color12": "#75715e",
+    "color5": "#543b3b",
+    "color13": "#6b5d51",
+    "color6": "#332425",
+    "color14": "#585858",
+    "color7": "#9a875f",
+    "color15": "#917154"
+  },
   "colors": {
     "editor.background": "#1f1f1f",
     "editor.foreground": "#C0C0C0FF",
