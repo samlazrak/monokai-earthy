@@ -15,7 +15,10 @@
     "green-dark": "#667c55",
     "green-light": "#adc586",
     "green-very-light": "#afcaaf",
-    "grey-comment": "#4e5350"
+    "grey-comment": "#4e5350",
+    "magenta-lighter": "#b16286",
+    "red-lighter": "#C96248ff",
+    "green-lighter": "#339966ff"
   },
   "lib-2": {
     "background": "#141314",
@@ -122,7 +125,7 @@
         "variable.import.parameter.js"
       ],
       "settings": {
-        "foreground": "#afcaaf"
+        "foreground": "#8fc269"
       }
     },
     {
@@ -173,7 +176,7 @@
         "entity.name.section.markdown"
       ],
       "settings": {
-        "foreground": "#83a06c"
+        "foreground": "#5fafb0ff"
       }
     },
     {
@@ -284,7 +287,7 @@
         "markup.underline.link.image.markdown"
       ],
       "settings": {
-        "foreground": "#f07178"
+        "foreground": "#b16286"
       }
     },
     {
@@ -295,14 +298,7 @@
         "constant.other.color.rgb-value.hex.css",
         "keyword.control",
         "constant.other.color",
-        "punctuation",
         "meta.tag",
-        "punctuation.definition.tag",
-        "punctuation.separator.inheritance.php",
-        "punctuation.definition.tag.html",
-        "punctuation.definition.tag.begin.html",
-        "punctuation.definition.tag.end.html",
-        "punctuation.section.embedded",
         "keyword.other.template",
         "keyword.other.substitution",
         "string",
@@ -502,9 +498,20 @@
     },
     {
       "name": "Operators",
-      "scope": "keyword.operator",
+      "scope": [
+        "keyword.operator",
+        "punctuation.definition.tag",
+        "punctuation.separator.inheritance.php",
+        "punctuation.definition.tag.html",
+        "punctuation.definition.tag.begin.html",
+        "punctuation.definition.tag.end.html",
+        "punctuation.section.embedded",
+        "keyword.other.template",
+        "keyword.other.substitution",
+        "punctuation"
+      ],
       "settings": {
-        "foreground": "#f07178"
+        "foreground": "#C96248ff"
       }
     },
     {
