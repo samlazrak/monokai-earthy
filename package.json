@@ -1,0 +1,21 @@
+{
+    "name": "monookai-earth-forest",
+    "displayName": "monookai-earth-forest",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "monokai-earth-forest",
+                "uiTheme": "vs-dark",
+                "path": "./themes/monokai-earth-forest-color-theme.json"
+            }
+        ]
+    }
+}
