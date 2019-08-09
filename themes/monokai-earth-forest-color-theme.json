@@ -40,7 +40,7 @@
   },
   "colors": {
     "editor.background": "#1f1f1f",
-    "editor.foreground": "#afcaaf",
+    "editor.foreground": "#916255",
     "titleBar.activeBackground": "#1f1f1f",
 
     "activityBar.background": "#1f1f1f",
@@ -121,7 +121,7 @@
         "variable.import.parameter.js"
       ],
       "settings": {
-        "foreground": "#b16286"
+        "foreground": "#bb90d8"
       }
     },
     {
@@ -241,7 +241,7 @@
         "JSXNested"
       ],
       "settings": {
-        "foreground": "#9ac2be"
+        "foreground": "#e1f3e7"
       }
     },
     {
@@ -294,6 +294,14 @@
         "constant.other.color.rgb-value.hex.css",
         "keyword.control",
         "constant.other.color",
+        "punctuation",
+        "meta.tag",
+        "punctuation.definition.tag",
+        "punctuation.separator.inheritance.php",
+        "punctuation.definition.tag.html",
+        "punctuation.definition.tag.begin.html",
+        "punctuation.definition.tag.end.html",
+        "punctuation.section.embedded",
         "keyword.other.template",
         "keyword.other.substitution",
         "string",
@@ -479,7 +487,7 @@
         "variable.other.property.js"
       ],
       "settings": {
-        "foreground": "#c78547",
+        "foreground": "#ebc17a",
         "fontStyle": "italic"
       }
     },
@@ -538,24 +546,6 @@
       "scope": [],
       "settings": {
         "foreground": "#c78547",
-        "fontStyle": "italic"
-      }
-    },
-    {
-      "name": "Another colors",
-      "scope": [
-        "punctuation",
-        "meta.tag",
-        "punctuation.definition.tag",
-        "punctuation.separator.inheritance.php",
-        "punctuation.definition.tag.html",
-        "punctuation.definition.tag.begin.html",
-        "punctuation.definition.tag.end.html",
-        "punctuation.section.embedded",
-        "keyword.operator"
-      ],
-      "settings": {
-        "foreground": "#916255",
         "fontStyle": "italic"
       }
     },
