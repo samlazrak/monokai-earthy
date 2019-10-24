@@ -11,8 +11,11 @@
   </a>
 </p>
 
+<p align="center">  
 
-Monokai Earthy Forest is a dark based theme for people who like greens, browns, and yellows. 
+<p>Monokai Earthy Forest is a dark based theme for people who like greens, browns, and yellows.</p>
+
+</p>
 
 <p align="center">  
 
