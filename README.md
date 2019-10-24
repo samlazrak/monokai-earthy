@@ -13,6 +13,7 @@
 
 <p align="center">  
 
+<img src="https://github.com/samlazrak/Monokai-Earthy/blob/master/forest.png" width="100" height="100">
 <p>Monokai Earthy Forest is a dark based theme for people who like greens, browns, and yellows.</p>
 
 </p>
